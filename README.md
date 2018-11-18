@@ -1,14 +1,21 @@
 # HexOhm Output
 
-Generates a table of power output from the [Hexohm 3.0](https://cravingvapor.com/product-category/hardware/hexohm-box-mods/) based on coil resistance.
+Generates a table of power output from the [Hexohm
+3.0](https://cravingvapor.com/product-category/hardware/hexohm-box-mods/) based
+on coil resistance.
 
 ## But Why?
 
-Because I love my HexOhm 3.0 but never know exactly how many watts it's putting out, and because I need more Java + Spring Boot + Gradle. I also wanted a project that would consume my [`hexohm-calculator`](https://github.com/jeremykendall/hexohm-calculator) library as a dependency.
+Because I love my HexOhm 3.0 but never know exactly how many watts it's putting
+out, and because I need more Java + Spring Boot + Gradle practice. I also
+wanted a project that would consume my
+[`hexohm-calculator`](https://github.com/jeremykendall/hexohm-calculator)
+library as a dependency.
 
 ## Usage
 
-Build the project and run on the command line or simply run the `HexohmOutputApplication` in your IDE.
+Build the project and run on the command line or simply run the
+`HexohmOutputApplication` in your IDE.
 
 ```bash
 $ ./gradlew clean build
