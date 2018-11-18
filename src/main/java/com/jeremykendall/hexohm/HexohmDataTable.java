@@ -1,7 +1,6 @@
-package com.jeremykendall.hexohmoutput;
+package com.jeremykendall.hexohm;
 
 import com.jeremykendall.electricity.Resistance;
-import com.jeremykendall.hexohm.Hexohm;
 import org.springframework.shell.table.ArrayTableModel;
 import org.springframework.shell.table.BorderStyle;
 import org.springframework.shell.table.SimpleHorizontalAligner;

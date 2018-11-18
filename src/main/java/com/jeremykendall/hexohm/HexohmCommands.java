@@ -1,4 +1,4 @@
-package com.jeremykendall.hexohmoutput;
+package com.jeremykendall.hexohm;
 
 import com.jeremykendall.electricity.Resistance;
 import org.springframework.shell.standard.ShellComponent;
