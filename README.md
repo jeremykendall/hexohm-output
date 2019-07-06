@@ -1,3 +1,5 @@
+# This project has been moved into a subproject in the hexohm-calculator project.
+
 # HexOhm Output
 
 Generates a table of power output from the [Hexohm
